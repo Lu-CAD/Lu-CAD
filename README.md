@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Lucas – a passionate maker with experience in CAD and 3D printing, currently exploring Python and HTML.
 
 <!--
 **Lu-CAD/Lu-CAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
